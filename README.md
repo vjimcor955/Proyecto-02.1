@@ -1,1 +1,1 @@
-![View the PDF](JiménezVíctor-Proyecto_02.1.pdf)
+[![PDF Preview](docs/preview-image.png)](JiménezVíctor-Proyecto_02.1.pdf)
